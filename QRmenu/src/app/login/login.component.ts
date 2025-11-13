@@ -1,9 +1,8 @@
-import { Component, signal } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { ReactiveFormsModule, FormBuilder, Validators } from '@angular/forms';
+import { Component, signal } from '@angular/core';
+import { FormBuilder, ReactiveFormsModule, Validators } from '@angular/forms';
 import { Router } from '@angular/router';
 import { LoginService } from '../Services/login.service';
-//import { LoginService } from '../services/login.service';
 
 @Component({
   selector: 'app-login',
@@ -46,15 +45,15 @@ export class LoginComponent {
 
     this.loading.set(true);
 
-    this.loginService.login(email, password).subscribe({
-      next: () => {
-        this.loading.set(false);
-        this.router.navigate(['/dashboard']);
-      },
-      error: (err) => {
-        this.loading.set(false);
-        this.error.set(err?.message || 'Login failed.');
-      },
-    });
+    // this.loginService.login(email, password).subscribe({
+    //   next: () => {
+    //     this.loading.set(false);
+    //     this.router.navigate(['/dashboard']);
+    //   },
+    //   error: (err) => {
+    //     this.loading.set(false);
+    //     this.error.set(err?.message || 'Login failed.');
+    //   },
+    // });
   }
 }

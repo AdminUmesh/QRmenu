@@ -1,38 +1,35 @@
-// src/app/services/login.service.ts
-import { Injectable } from '@angular/core';
 import { HttpClient, HttpErrorResponse } from '@angular/common/http';
-import { Observable, throwError, tap } from 'rxjs';
-import { AuthService } from '../core/auth/auth.service';
-//import { AuthService } from './auth.service';
+import { Injectable } from '@angular/core';
+import { catchError, Observable, tap, throwError } from 'rxjs';
+import { TokenService } from './token.service';
 
 export interface LoginResponse {
   token: string;
   user?: any;
 }
 
-@Injectable({
-  providedIn: 'root',
-})
+@Injectable({ providedIn: 'root' })
 export class LoginService {
-  private loginUrl = '/api/auth/login'; // update to your backend
+  private loginUrl = '/api/auth/login';
 
-  constructor(private http: HttpClient, private auth: AuthService) {}
+  constructor(private http: HttpClient, private tokenService: TokenService) {
+    console.log('LoginService constructed', new Error().stack);
+  }
 
   login(email: string, password: string): Observable<LoginResponse> {
-    const body = { email, password };
-    return this.http.post<LoginResponse>(this.loginUrl, body).pipe(
+    return this.http.post<LoginResponse>(this.loginUrl, { email, password }).pipe(
       tap((res) => {
-        if (res?.token) this.auth.setToken(res.token);
-      })
+        if (res?.token) this.tokenService.setToken(res.token);
+      }),
+      catchError(this.handleError)
     );
   }
 
   logout() {
-    this.auth.clearToken();
-    // optionally call backend logout
+    // Only clears token locally — no AuthService dependency
+    this.tokenService.clearToken();
   }
 
-  // optional helper to normalize errors if you want:
   private handleError(err: HttpErrorResponse) {
     let message = 'Unknown error';
     if (err.error?.message) message = err.error.message;
