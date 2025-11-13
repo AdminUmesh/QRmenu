@@ -1,5 +1,5 @@
 import { HttpInterceptorFn } from '@angular/common/http';
 
-export const httpInterceptor: HttpInterceptorFn = (req, next) => {
+export const encryptDecryptInterceptor: HttpInterceptorFn = (req, next) => {
   return next(req);
 };
