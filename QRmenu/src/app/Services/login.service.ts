@@ -10,19 +10,23 @@ export interface LoginResponse {
 
 @Injectable({ providedIn: 'root' })
 export class LoginService {
-  private loginUrl = '/api/auth/login';
+  //private loginUrl = '/api/auth/login';
+  private loginUrl = 'https://api.restful-api.dev/objects';
 
   constructor(private http: HttpClient, private tokenService: TokenService) {
     console.log('LoginService constructed', new Error().stack);
   }
 
   login(email: string, password: string): Observable<LoginResponse> {
-    return this.http.post<LoginResponse>(this.loginUrl, { email, password }).pipe(
-      tap((res) => {
-        if (res?.token) this.tokenService.setToken(res.token);
-      }),
-      catchError(this.handleError)
-    );
+    return this.http
+      .post<LoginResponse>(this.loginUrl, { email, password })
+      .pipe(
+        tap((res) => {
+          //if (res?.token) this.tokenService.setToken(res.token);
+          this.tokenService.setToken("this is static token");
+        }),
+        catchError(this.handleError)
+      );
   }
 
   logout() {

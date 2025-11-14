@@ -1,4 +1,3 @@
-<!-- src/app/login/login.component.html -->
 <div class="login-card">
   <h2>Sign in</h2>
 
@@ -6,19 +5,19 @@
     <div class="form-group">
       <label for="email">Email</label>
       <input id="email" type="email" formControlName="email" />
-      <div class="error" *ngIf="f().email.touched && f().email.invalid">
-        <div *ngIf="f().email.errors?.['required']">Email is required.</div>
-        <div *ngIf="f().email.errors?.['email']">Enter a valid email.</div>
+      <div class="error" *ngIf="f.email.touched && f.email.invalid">
+        <div *ngIf="f.email.errors?.['required']">Email is required.</div>
+        <div *ngIf="f.email.errors?.['email']">Enter a valid email.</div>
       </div>
     </div>
 
     <div class="form-group">
       <label for="password">Password</label>
       <input id="password" type="password" formControlName="password" />
-      <div class="error" *ngIf="f().password.touched && f().password.invalid">
-        <div *ngIf="f().password.errors?.['required']">Password is required.</div>
-        <div *ngIf="f().password.errors?.['minlength']">
-          Password must be at least {{ f().password.errors?.['minlength.requiredLength }} characters.
+      <div class="error" *ngIf="f.password.touched && f.password.invalid">
+        <div *ngIf="f.password.errors?.['required']">Password is required.</div>
+        <div *ngIf="f.password.errors?.['minlength']">
+          Password must be at least {{ f.password.errors?.['minlength.requiredLength }} characters.
         </div>
       </div>
     </div>

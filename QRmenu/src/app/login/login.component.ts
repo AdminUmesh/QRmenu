@@ -45,15 +45,15 @@ export class LoginComponent {
 
     this.loading.set(true);
 
-    // this.loginService.login(email, password).subscribe({
-    //   next: () => {
-    //     this.loading.set(false);
-    //     this.router.navigate(['/dashboard']);
-    //   },
-    //   error: (err) => {
-    //     this.loading.set(false);
-    //     this.error.set(err?.message || 'Login failed.');
-    //   },
-    // });
+    this.loginService.login(email, password).subscribe({
+      next: () => {
+        this.loading.set(false);
+        this.router.navigate(['/home']);
+      },
+      error: (err) => {
+        this.loading.set(false);
+        this.error.set(err?.message || 'Login failed.');
+      },
+    });
   }
 }
