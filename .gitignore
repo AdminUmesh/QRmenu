@@ -1,0 +1,8 @@
+
+# ---- .NET ----
+/QR_API/QR_API/bin/
+/QR_API/QR_API/obj/
+/QR_API/QR_API/*.user
+/QR_API/QR_API/*.csproj.user
+/QR_API/QR_API/*.suo
+/QR_API/QR_API/.vs/
