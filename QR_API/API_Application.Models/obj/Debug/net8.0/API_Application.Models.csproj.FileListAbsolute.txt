@@ -22,3 +22,15 @@ Z:\Git Repo\QRmenu\QR_API\API_Application.Models\obj\Debug\net8.0\API_Applicatio
 Z:\Git Repo\QRmenu\QR_API\API_Application.Models\obj\Debug\net8.0\refint\API_Application.Models.dll
 Z:\Git Repo\QRmenu\QR_API\API_Application.Models\obj\Debug\net8.0\API_Application.Models.pdb
 Z:\Git Repo\QRmenu\QR_API\API_Application.Models\obj\Debug\net8.0\ref\API_Application.Models.dll
+P:\Aimil WorkSpace\Git Repo\QRmenu\QR_API\API_Application.Models\bin\Debug\net8.0\API_Application.Models.deps.json
+P:\Aimil WorkSpace\Git Repo\QRmenu\QR_API\API_Application.Models\bin\Debug\net8.0\API_Application.Models.dll
+P:\Aimil WorkSpace\Git Repo\QRmenu\QR_API\API_Application.Models\bin\Debug\net8.0\API_Application.Models.pdb
+P:\Aimil WorkSpace\Git Repo\QRmenu\QR_API\API_Application.Models\obj\Debug\net8.0\API_Application.Models.GeneratedMSBuildEditorConfig.editorconfig
+P:\Aimil WorkSpace\Git Repo\QRmenu\QR_API\API_Application.Models\obj\Debug\net8.0\API_Application.Models.AssemblyInfoInputs.cache
+P:\Aimil WorkSpace\Git Repo\QRmenu\QR_API\API_Application.Models\obj\Debug\net8.0\API_Application.Models.AssemblyInfo.cs
+P:\Aimil WorkSpace\Git Repo\QRmenu\QR_API\API_Application.Models\obj\Debug\net8.0\API_Application.Models.csproj.CoreCompileInputs.cache
+P:\Aimil WorkSpace\Git Repo\QRmenu\QR_API\API_Application.Models\obj\Debug\net8.0\API_Application.Models.sourcelink.json
+P:\Aimil WorkSpace\Git Repo\QRmenu\QR_API\API_Application.Models\obj\Debug\net8.0\API_Application.Models.dll
+P:\Aimil WorkSpace\Git Repo\QRmenu\QR_API\API_Application.Models\obj\Debug\net8.0\refint\API_Application.Models.dll
+P:\Aimil WorkSpace\Git Repo\QRmenu\QR_API\API_Application.Models\obj\Debug\net8.0\API_Application.Models.pdb
+P:\Aimil WorkSpace\Git Repo\QRmenu\QR_API\API_Application.Models\obj\Debug\net8.0\ref\API_Application.Models.dll

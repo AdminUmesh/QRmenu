@@ -1,9 +1,7 @@
-# QRmenu
-Digital Menu
+How to add Project in .sln file
+How to remove project from .sln file
 
-Add Sln 
-Remove Sln
-add multiple project
-remove multiple project
-Add Reference 
-Remove Reference
+How to add refrence in project
+how to remove reference from projet
+
+How to set a project as startup project 

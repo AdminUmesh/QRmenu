@@ -1,6 +1,7 @@
 
 using API_Application.Interfaces;
 using API_Application.Services;
+using QR_API.Middlewares;
 
 namespace QR_API
 {
@@ -18,7 +19,8 @@ namespace QR_API
             builder.Services.AddSwaggerGen();
 
             // DI: when something needs ICityService, give CityService
-            builder.Services.AddScoped<ICityService, CityService>();
+            builder.Services.AddResolvers();
+            //builder.Services.AddScoped<ICityService, CityService>();
 
             var app = builder.Build();
 
@@ -32,7 +34,6 @@ namespace QR_API
             app.UseHttpsRedirection();
 
             app.UseAuthorization();
-
 
             app.MapControllers();
 

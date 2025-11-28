@@ -30,3 +30,19 @@ Z:\Git Repo\QRmenu\QR_API\API_Application.Interfaces\obj\Debug\net8.0\API_Applic
 Z:\Git Repo\QRmenu\QR_API\API_Application.Interfaces\obj\Debug\net8.0\refint\API_Application.Interfaces.dll
 Z:\Git Repo\QRmenu\QR_API\API_Application.Interfaces\obj\Debug\net8.0\API_Application.Interfaces.pdb
 Z:\Git Repo\QRmenu\QR_API\API_Application.Interfaces\obj\Debug\net8.0\ref\API_Application.Interfaces.dll
+P:\Aimil WorkSpace\Git Repo\QRmenu\QR_API\API_Application.Interfaces\bin\Debug\net8.0\API_Application.Interfaces.deps.json
+P:\Aimil WorkSpace\Git Repo\QRmenu\QR_API\API_Application.Interfaces\bin\Debug\net8.0\API_Application.Interfaces.dll
+P:\Aimil WorkSpace\Git Repo\QRmenu\QR_API\API_Application.Interfaces\bin\Debug\net8.0\API_Application.Interfaces.pdb
+P:\Aimil WorkSpace\Git Repo\QRmenu\QR_API\API_Application.Interfaces\bin\Debug\net8.0\API_Application.Models.dll
+P:\Aimil WorkSpace\Git Repo\QRmenu\QR_API\API_Application.Interfaces\bin\Debug\net8.0\API_Application.Models.pdb
+P:\Aimil WorkSpace\Git Repo\QRmenu\QR_API\API_Application.Interfaces\obj\Debug\net8.0\API_Application.Interfaces.csproj.AssemblyReference.cache
+P:\Aimil WorkSpace\Git Repo\QRmenu\QR_API\API_Application.Interfaces\obj\Debug\net8.0\API_Application.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+P:\Aimil WorkSpace\Git Repo\QRmenu\QR_API\API_Application.Interfaces\obj\Debug\net8.0\API_Application.Interfaces.AssemblyInfoInputs.cache
+P:\Aimil WorkSpace\Git Repo\QRmenu\QR_API\API_Application.Interfaces\obj\Debug\net8.0\API_Application.Interfaces.AssemblyInfo.cs
+P:\Aimil WorkSpace\Git Repo\QRmenu\QR_API\API_Application.Interfaces\obj\Debug\net8.0\API_Application.Interfaces.csproj.CoreCompileInputs.cache
+P:\Aimil WorkSpace\Git Repo\QRmenu\QR_API\API_Application.Interfaces\obj\Debug\net8.0\API_Application.Interfaces.sourcelink.json
+P:\Aimil WorkSpace\Git Repo\QRmenu\QR_API\API_Application.Interfaces\obj\Debug\net8.0\API_Appl.788314E0.Up2Date
+P:\Aimil WorkSpace\Git Repo\QRmenu\QR_API\API_Application.Interfaces\obj\Debug\net8.0\API_Application.Interfaces.dll
+P:\Aimil WorkSpace\Git Repo\QRmenu\QR_API\API_Application.Interfaces\obj\Debug\net8.0\refint\API_Application.Interfaces.dll
+P:\Aimil WorkSpace\Git Repo\QRmenu\QR_API\API_Application.Interfaces\obj\Debug\net8.0\API_Application.Interfaces.pdb
+P:\Aimil WorkSpace\Git Repo\QRmenu\QR_API\API_Application.Interfaces\obj\Debug\net8.0\ref\API_Application.Interfaces.dll

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\Git Repo\\QRmenu\\QR_API\\API_Application.Interfaces\\API_Application.Interfaces.csproj": {}
+    "P:\\Aimil WorkSpace\\Git Repo\\QRmenu\\QR_API\\API_Application.Interfaces\\API_Application.Interfaces.csproj": {}
   },
   "projects": {
-    "Z:\\Git Repo\\QRmenu\\QR_API\\API_Application.Interfaces\\API_Application.Interfaces.csproj": {
+    "P:\\Aimil WorkSpace\\Git Repo\\QRmenu\\QR_API\\API_Application.Interfaces\\API_Application.Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\Git Repo\\QRmenu\\QR_API\\API_Application.Interfaces\\API_Application.Interfaces.csproj",
+        "projectUniqueName": "P:\\Aimil WorkSpace\\Git Repo\\QRmenu\\QR_API\\API_Application.Interfaces\\API_Application.Interfaces.csproj",
         "projectName": "API_Application.Interfaces",
-        "projectPath": "Z:\\Git Repo\\QRmenu\\QR_API\\API_Application.Interfaces\\API_Application.Interfaces.csproj",
-        "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-        "outputPath": "Z:\\Git Repo\\QRmenu\\QR_API\\API_Application.Interfaces\\obj\\",
+        "projectPath": "P:\\Aimil WorkSpace\\Git Repo\\QRmenu\\QR_API\\API_Application.Interfaces\\API_Application.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\nextgen-crs\\.nuget\\packages\\",
+        "outputPath": "P:\\Aimil WorkSpace\\Git Repo\\QRmenu\\QR_API\\API_Application.Interfaces\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nextgen-crs\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "Z:\\Git Repo\\QRmenu\\QR_API\\API_Application.Models\\API_Application.Models.csproj": {
-                "projectPath": "Z:\\Git Repo\\QRmenu\\QR_API\\API_Application.Models\\API_Application.Models.csproj"
+              "P:\\Aimil WorkSpace\\Git Repo\\QRmenu\\QR_API\\API_Application.Models\\API_Application.Models.csproj": {
+                "projectPath": "P:\\Aimil WorkSpace\\Git Repo\\QRmenu\\QR_API\\API_Application.Models\\API_Application.Models.csproj"
               }
             }
           }
@@ -69,24 +69,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "Z:\\Git Repo\\QRmenu\\QR_API\\API_Application.Models\\API_Application.Models.csproj": {
+    "P:\\Aimil WorkSpace\\Git Repo\\QRmenu\\QR_API\\API_Application.Models\\API_Application.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\Git Repo\\QRmenu\\QR_API\\API_Application.Models\\API_Application.Models.csproj",
+        "projectUniqueName": "P:\\Aimil WorkSpace\\Git Repo\\QRmenu\\QR_API\\API_Application.Models\\API_Application.Models.csproj",
         "projectName": "API_Application.Models",
-        "projectPath": "Z:\\Git Repo\\QRmenu\\QR_API\\API_Application.Models\\API_Application.Models.csproj",
-        "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-        "outputPath": "Z:\\Git Repo\\QRmenu\\QR_API\\API_Application.Models\\obj\\",
+        "projectPath": "P:\\Aimil WorkSpace\\Git Repo\\QRmenu\\QR_API\\API_Application.Models\\API_Application.Models.csproj",
+        "packagesPath": "C:\\Users\\nextgen-crs\\.nuget\\packages\\",
+        "outputPath": "P:\\Aimil WorkSpace\\Git Repo\\QRmenu\\QR_API\\API_Application.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nextgen-crs\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -134,7 +134,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

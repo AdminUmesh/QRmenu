@@ -34,3 +34,21 @@ Z:\Git Repo\QRmenu\QR_API\API_Application.Services\obj\Debug\net8.0\API_Applicat
 Z:\Git Repo\QRmenu\QR_API\API_Application.Services\obj\Debug\net8.0\refint\API_Application.Services.dll
 Z:\Git Repo\QRmenu\QR_API\API_Application.Services\obj\Debug\net8.0\API_Application.Services.pdb
 Z:\Git Repo\QRmenu\QR_API\API_Application.Services\obj\Debug\net8.0\ref\API_Application.Services.dll
+P:\Aimil WorkSpace\Git Repo\QRmenu\QR_API\API_Application.Services\bin\Debug\net8.0\API_Application.Services.deps.json
+P:\Aimil WorkSpace\Git Repo\QRmenu\QR_API\API_Application.Services\bin\Debug\net8.0\API_Application.Services.dll
+P:\Aimil WorkSpace\Git Repo\QRmenu\QR_API\API_Application.Services\bin\Debug\net8.0\API_Application.Services.pdb
+P:\Aimil WorkSpace\Git Repo\QRmenu\QR_API\API_Application.Services\bin\Debug\net8.0\API_Application.Interfaces.dll
+P:\Aimil WorkSpace\Git Repo\QRmenu\QR_API\API_Application.Services\bin\Debug\net8.0\API_Application.Models.dll
+P:\Aimil WorkSpace\Git Repo\QRmenu\QR_API\API_Application.Services\bin\Debug\net8.0\API_Application.Interfaces.pdb
+P:\Aimil WorkSpace\Git Repo\QRmenu\QR_API\API_Application.Services\bin\Debug\net8.0\API_Application.Models.pdb
+P:\Aimil WorkSpace\Git Repo\QRmenu\QR_API\API_Application.Services\obj\Debug\net8.0\API_Application.Services.csproj.AssemblyReference.cache
+P:\Aimil WorkSpace\Git Repo\QRmenu\QR_API\API_Application.Services\obj\Debug\net8.0\API_Application.Services.GeneratedMSBuildEditorConfig.editorconfig
+P:\Aimil WorkSpace\Git Repo\QRmenu\QR_API\API_Application.Services\obj\Debug\net8.0\API_Application.Services.AssemblyInfoInputs.cache
+P:\Aimil WorkSpace\Git Repo\QRmenu\QR_API\API_Application.Services\obj\Debug\net8.0\API_Application.Services.AssemblyInfo.cs
+P:\Aimil WorkSpace\Git Repo\QRmenu\QR_API\API_Application.Services\obj\Debug\net8.0\API_Application.Services.csproj.CoreCompileInputs.cache
+P:\Aimil WorkSpace\Git Repo\QRmenu\QR_API\API_Application.Services\obj\Debug\net8.0\API_Application.Services.sourcelink.json
+P:\Aimil WorkSpace\Git Repo\QRmenu\QR_API\API_Application.Services\obj\Debug\net8.0\API_Appl.8D6EEBDE.Up2Date
+P:\Aimil WorkSpace\Git Repo\QRmenu\QR_API\API_Application.Services\obj\Debug\net8.0\API_Application.Services.dll
+P:\Aimil WorkSpace\Git Repo\QRmenu\QR_API\API_Application.Services\obj\Debug\net8.0\refint\API_Application.Services.dll
+P:\Aimil WorkSpace\Git Repo\QRmenu\QR_API\API_Application.Services\obj\Debug\net8.0\API_Application.Services.pdb
+P:\Aimil WorkSpace\Git Repo\QRmenu\QR_API\API_Application.Services\obj\Debug\net8.0\ref\API_Application.Services.dll
